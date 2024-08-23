@@ -25,8 +25,11 @@ npm run dev
 Open http://localhost:3000 in your browser to view the app.
 
 ## Usage
-Register or log in to access the dashboard.
+Register or log in to access the dashboard. 
 Add, edit, and delete invoices from the dashboard.
+Login credentials for the demo: 
+email: user@nextmail.com 
+password: 123456
 
 ## License
 This project is licensed under the MIT License.
